@@ -12,3 +12,4 @@ console.log(first, second, third);     // red green blue
 // Default values
 const [a=1, b=2, c = 3] = [10, 20];
 console.log(a, b, c);       // 10 20 3
+
